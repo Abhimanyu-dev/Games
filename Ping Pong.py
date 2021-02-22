@@ -1,6 +1,5 @@
 from tkinter.constants import CENTER
 from turtle import *
-from pendulum import *
 from time import *
 
 time_start = perf_counter()
